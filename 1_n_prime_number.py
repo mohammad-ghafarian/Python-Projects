@@ -1,5 +1,5 @@
 # Add git
-
+# Add github
 # Function
 def is_prime(n):
     prime = True
